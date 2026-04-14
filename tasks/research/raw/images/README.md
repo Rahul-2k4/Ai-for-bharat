@@ -1,8 +1,6 @@
-# Extracted Event Images
+# Extracted Event Image Links
 
-These files were downloaded from the official AI for Bharat challenge payload and kept for offline reference.
+The original event image URLs were captured from the official AI for Bharat challenge payload.
+Textual content needed for offline work has been moved into markdown docs.
 
-- `editor_image_2646421_aefe2b2.png` - phase timeline details
-- `editor_image_2646421_b5ea1ae.png` - organizer banner
-- `editor_image_2646421_f83d768.png` - separator graphic
-- `editor_image_2646421_0a322ec.png` - separator graphic
+- `image_urls.txt` - archived source URLs for event images used during extraction

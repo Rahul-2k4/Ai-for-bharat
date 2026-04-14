@@ -54,7 +54,7 @@ Source: `tasks/research/raw/hackerearth-ai-for-bharat-2-faq.md`
   - Onsite hackathon: 15 May, 6 PM onwards
   - Grand finale: 16 May
 
-Source image: `tasks/research/raw/images/editor_image_2646421_aefe2b2.png`
+Source for extracted timeline text: `tasks/research/raw/images/image_urls.txt` (captured from official embedded timeline image URL)
 
 ## 5) Positioning and judging direction (extractable text)
 
@@ -95,7 +95,7 @@ Source: `tasks/research/raw/hackerearth-ai-for-bharat-2-overview.html`
 - `tasks/research/raw/hackerearth-ai-for-bharat-2-overview.html`
 - `tasks/research/raw/tabs/*.html`
 - `tasks/research/raw/custom-tabs/*.html`
-- `tasks/research/raw/images/*.png`
+- `tasks/research/raw/images/image_urls.txt`
 - `docs/hackathon-evaluation.md`
 - `docs/hackathon-submission-guideline.md`
 - `docs/hackathon-themes.md`
