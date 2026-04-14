@@ -19,7 +19,7 @@
 - [x] Update `docs/hackathon-offline-pack.md` coverage to reflect full tab capture.
 - [x] Update `docs/index.md` navigation for new offline docs.
 - [x] Run `python3 tools/validate_docs_scope.py` on all changed markdown docs.
-- [ ] Commit and push to `main`.
+- [x] Commit and push to `main`.
 
 ## Review
 
