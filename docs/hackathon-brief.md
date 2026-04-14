@@ -6,12 +6,16 @@
 - Rules: https://www.hackerearth.com/challenges/hackathon/ai-for-bharat-2/rules/
 - FAQ: https://www.hackerearth.com/challenges/hackathon/ai-for-bharat-2/faq/
 - PAN IIT Summit context: https://blr.paniit.org/
+- Offline consolidated reference: `docs/hackathon-offline-pack.md`
+- Offline theme statements: `docs/hackathon-themes.md`
+- Offline evaluation rubric: `docs/hackathon-evaluation.md`
+- Offline submission rules: `docs/hackathon-submission-guideline.md`
 
 ## Verified Facts (as checked on 2026-04-15 IST)
 
 - Team participation: minimum 2 and maximum 5 members.
 - Format: physical hackathon at Taj Yeshwantpur, Bengaluru.
-- Registered count shown on page: 376.
+- Registered count shown on page: 384 (value is live and can change).
 - Idea Phase window displayed:
   - starts: 2026-04-10 22:00 UTC
   - ends: 2026-04-25 23:55 UTC

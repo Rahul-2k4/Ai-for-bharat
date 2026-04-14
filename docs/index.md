@@ -5,6 +5,10 @@ This folder tracks the submission package for AI for Bharat 2.
 ## Documents
 
 - [Hackathon Brief](./hackathon-brief.md): event context, rules, timelines, and constraints.
+- [Hackathon Offline Pack](./hackathon-offline-pack.md): consolidated read-once reference with source inventory and coverage status.
+- [Hackathon Themes](./hackathon-themes.md): full problem statements and constraints for Theme 1/2/3.
+- [Evaluation Criteria](./hackathon-evaluation.md): jury composition, weights, and screening process.
+- [Submission Guideline](./hackathon-submission-guideline.md): mandatory deliverables and constraints.
 - [Architecture](./architecture.md): problem framing, system boundaries, and component design.
 - [Demo Script](./demo-script.md): judge-friendly walkthrough script.
 - [Submission Checklist](./submission-checklist.md): final readiness gate.
