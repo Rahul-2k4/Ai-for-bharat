@@ -62,3 +62,40 @@
 ### pass@k self-check
 
 - pass@1: yes for this offline completeness pass.
+
+## Plan - Theme 2 Winning Prototype (In Progress)
+
+- [x] Confirm scoring strategy and target demo depth for judges.
+- [x] Lock scope boundaries for a Phase-2-ready working prototype.
+- [x] Research winning patterns for govtech interoperability prototypes (auditability, idempotency, conflict handling).
+- [x] Choose reference architecture and stack for fastest delivery.
+- [x] Define canonical data model and UBID join-key strategy.
+- [x] Define two-way sync flow: SWS -> Dept and Dept -> SWS.
+- [x] Define idempotency, retry, dedupe, and replay policies.
+- [x] Define conflict-resolution policy and reversible decision trail.
+- [ ] Define change-discovery approach for systems without native events.
+- [x] Define observability and audit evidence required for judging.
+- [ ] Freeze MVP feature list and defer non-critical stretch items.
+- [x] Write detailed build plan with milestones to May 4, 2026.
+- [ ] Prepare demo script mapped to judging criteria.
+- [x] Define verification checklist (functional, reliability, explainability, auditability).
+
+## Review - Theme 2 Winning Prototype (Live)
+
+- Status: planning and deep research in progress.
+- Next update: after architecture options and trade-off analysis are finalized.
+
+### Decision Log - Theme 2 (Current Session)
+
+- Target: score-maximizing balanced prototype with strong judge-facing evidence.
+- Timeline target: working prototype for Phase 2 end (May 4, 2026).
+- Demo storyline: Factory License service flow.
+- Integration scope: SWS + 3 department systems.
+- Department systems locked for prototype: Pollution NOC (KSPCB), Fire Safety NOC, Labour/Factory Compliance.
+- AI layer included: schema mapping suggestions + conflict-risk scoring in prototype scope.
+- AI deployment constraint: local/on-device inference only in prototype.
+- Architecture approach selected: Orchestrated Interop Gateway with local AI assist layer.
+- Spec drafted: docs/superpowers/specs/2026-04-20-theme-2-interop-gateway-design.md
+- Spec review loop: reviewer pass running.
+- Implementation plan written: docs/superpowers/plans/2026-04-20-theme-2-interop-gateway-implementation-plan.md
+- Plan review loop result: approved (final reviewer pass).
